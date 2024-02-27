@@ -10,6 +10,6 @@
 
 ## Contributors:
 
-<a href="https://github.com/fptqnk17/FER202/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=fptqnk17/FER202" />
+<a href="https://github.com/fptqnk17/PRN211/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=fptqnk17/PRN211" />
 </a>
