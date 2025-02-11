@@ -1,8 +1,15 @@
 # PRN211
-> All source code about PRN211 that we learned at FPT University QN AI Campus.
 
 ![Languages](https://img.shields.io/github/languages/top/fptqnk17/PRN211?style=flat)
 ![Repo Size](https://img.shields.io/github/repo-size/fptqnk17/PRN211?style=flat)
+
+> All source code about PRN211 that we learned at FPT University QN AI Campus.
+
+## 📢 Advertisement
+
+<img src="https://raw.githubusercontent.com/fptqnk17/.github/refs/heads/main/images/banner-bao-thu.png" alt="Advertisement" />
+
+---
 
 ## Table of contents
 - Assignments:
